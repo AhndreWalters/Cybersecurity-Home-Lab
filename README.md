@@ -96,6 +96,25 @@ Both VMs use NAT networking automatically. VMware NAT service assigns IP address
    - Both showing NAT IP addresses (192.168.xxx.xxx range)
    - IPs should be different but in same subnet
 
+## 📸 Required Screenshots for Setup Verification
+
+### Screenshot 1: VMware Resource Verification
+<img width="843" height="873" alt="image" src="https://github.com/user-attachments/assets/4d7f6b1b-7c4b-4f64-8f5c-1fa38b6d6487" />
+
+### Screenshot 2: Both VMs in VMware Library
+<img width="960" height="516" alt="image" src="https://github.com/user-attachments/assets/5b7214fd-7417-4568-a01c-feaa7fd16bab" />
+
+### Screenshot 3: Kali VM Hardware Settings
+<img width="1144" height="540" alt="image" src="https://github.com/user-attachments/assets/293dd505-da3e-4ee5-b0c9-6da7552b5f3e" />
+
+### Screenshot 4: Windows VM Hardware Settings
+<img width="1144" height="540" alt="image" src="https://github.com/user-attachments/assets/f5198acb-b5ed-4534-9b4a-f63581afd01d" />
+
+
+### Screenshot 5: Both VMs Running
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/74e670ee-41ad-4fba-b95d-f503ea90cc72" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d8297a79-b2de-4c1f-b1ac-748656260191" />
+
 ## Quick Connectivity Test
 
 After setup, verify the lab works:

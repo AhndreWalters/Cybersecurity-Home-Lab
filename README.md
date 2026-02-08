@@ -15,7 +15,7 @@
 3. Select "Typical" configuration
 4. Choose "Installer disc image file (iso)" and browse to Kali Purple ISO
 5. Guest OS: Linux, Version: Debian 11.x 64-bit
-6. Virtual machine name: `Kali-Purple-Attacker`
+6. Virtual machine name: `Kali Linux Purple`
 7. Maximum disk size: 40.0 GB, select "Split virtual disk"
 8. Click "Customize Hardware" before finishing:
    - Memory: 4096 MB
@@ -30,7 +30,7 @@
 2. Select "Typical" configuration
 3. Choose "Installer disc image file (iso)" and browse to Windows 10 ISO
 4. Guest OS: Windows, Version: Windows 10 x64
-5. Virtual machine name: `Windows10-Target`
+5. Virtual machine name: `Windows 10`
 6. Maximum disk size: 60.0 GB, select "Split virtual disk"
 7. Click "Customize Hardware" before finishing:
    - Memory: 4096 MB

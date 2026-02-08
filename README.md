@@ -161,4 +161,4 @@ ping [Kali-IP]              # Should succeed immediately
 
 Remember: Disabling firewall is for lab purposes only. Re-enable when not using the lab:
 
-
+<strong>[&copy; 2026 Ahndre Walters](https://github.com/AhndreWalters/Cybersecurity-Home-Lab/blob/main/LICENSE)</strong>
